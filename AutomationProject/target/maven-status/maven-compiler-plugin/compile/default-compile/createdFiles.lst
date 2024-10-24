@@ -1,0 +1,7 @@
+com\wizcomtech\AutomationProject\OrgnisationCreation.class
+com\wizcomtech\AutomationProject\ExtentReports_Test.class
+com\wizcomtech\AutomationProject\ExistingUser.class
+com\wizcomtech\AutomationProject\OwnerCreationInvite.class
+com\wizcomtech\AutomationProject\OrgnisationCreation_test.class
+com\wizcomtech\AutomationProject\OwnerJoinOrganisation.class
+com\wizcomtech\AutomationProject\NonexistingUserVerification.class

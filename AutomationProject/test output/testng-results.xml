@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-22T10:46:16 IST" name="Test Suite" finished-at="2024-10-22T10:47:01 IST" duration-ms="44900">
+    <groups>
+    </groups>
+    <test started-at="2024-10-22T10:46:16 IST" name="OrganisationCreation" finished-at="2024-10-22T10:47:01 IST" duration-ms="44900">
+      <class name="com.wizcomtech.AutomationProject.OrgnisationCreation_test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.wizcomtech.AutomationProject.OrgnisationCreation_test@561b6512]" started-at="2024-10-22T10:46:16 IST" name="setup" finished-at="2024-10-22T10:46:16 IST" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="OrganisationCreation()[pri:0, instance:com.wizcomtech.AutomationProject.OrgnisationCreation_test@561b6512]" started-at="2024-10-22T10:46:16 IST" name="OrganisationCreation" finished-at="2024-10-22T10:47:01 IST" duration-ms="44873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrganisationCreation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.wizcomtech.AutomationProject.OrgnisationCreation_test@561b6512]" started-at="2024-10-22T10:47:01 IST" name="tearDown" finished-at="2024-10-22T10:47:01 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.wizcomtech.AutomationProject.OrgnisationCreation_test -->
+    </test> <!-- OrganisationCreation -->
+  </suite> <!-- Test Suite -->
+</testng-results>
